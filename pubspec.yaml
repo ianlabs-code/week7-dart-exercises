@@ -1,0 +1,7 @@
+name: dart_exercises
+description: Week 7 Dart fundamentals exercises for NTC PC16 Mobile Development with Lab.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
