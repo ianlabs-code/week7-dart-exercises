@@ -1,0 +1,13 @@
+=== Notebook Store Budget Checker ===
+Item: Notebook
+Quantity: 5
+Unit price: PHP 28.50
+Student discount eligible: true
+Subtotal: PHP 142.50
+Student discount (10%): PHP 14.25
+Final total: PHP 128.25
+Average cost per item after discount: PHP 25.65
+Is the final total within PHP 150.00 budget? true
+Full pairs of notebooks: 2
+Notebooks left over after making pairs: 1
+Quantity after adding one extra notebook: 6
